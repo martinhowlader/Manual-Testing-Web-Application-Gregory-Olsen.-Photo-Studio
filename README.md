@@ -1,0 +1,2 @@
+# Manual-Testing-Web-Application-Gregory-Olsen.-Photo-Studio
+Explore Gregory Olsen's portfolio &amp; book sessions. Site features Home, Work, Connect, Sessions, &amp; InstaOlsen tabs. Work showcases portrait, lifestyle, travel &amp; motion galleries. Connect offers bio, clients, philanthropy &amp; contact info. Sessions allow booking of various photo sessions. Visit InstaOlsen for Gregory's Instagram.
